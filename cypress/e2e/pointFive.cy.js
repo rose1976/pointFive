@@ -1,4 +1,3 @@
-<reference types="Cypress" />
 import selector from "./commands"
 
 describe('Home Assignment', () => {
